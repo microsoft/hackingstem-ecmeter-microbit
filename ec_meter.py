@@ -1,7 +1,8 @@
 # -------------__ Hacking STEM – ec_meter.py – micro:bit __------------
-# For use with the Measuring Water Quality to Understand Human Impact 
+# For use with the Measuring Water Quality to Understand Human Impact
 # lesson plan available from Microsoft Education Workshop at
-# https://www.microsoft.com/en-us/education/education-workshop/conductivity-sensor.aspx
+# Microsoft Hacking STEM EC Meter lesson plan: https://education.microsoft.com/hackingStem/lesson/802f760a
+# BBC Oceans - Exploring Ocean Currents lesson plan: https://education.microsoft.com/hackingStem/lesson/264b425d
 # http://aka.ms/hackingSTEM
 #
 #  Overview:
